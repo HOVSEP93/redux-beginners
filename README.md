@@ -1,4 +1,4 @@
-LIVE: https://hovsep93.github.io/redux-beginners/
+
 
 # Getting Started with Create React App
 
